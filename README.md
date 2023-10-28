@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1zQtxro4PrdnJGDS7KuqZS8d2TJWCb19z/view?usp=drive_link)](https://github.com/dedipya001)
+[![MasterHead](https://www.canva.com/design/DAFyj4ZkTYA/-STTvPgYpRQWrt9s0S1nWQ/view?utm_content=DAFyj4ZkTYA&utm_campaign=designshare&utm_medium=link&utm_source=editor)]
 <h1 align="center">Hi 👋, I'm Dedipya Goswami</h1>
 <h3 align="center">A passionate frontend developer from India, an AI/ML student at SRM University, Andhra Pradesh</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">

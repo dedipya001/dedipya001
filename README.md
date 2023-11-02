@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 
  # 💫 About Me: 
-🔭 I’m currently working on Action Recognition in Video<br><br>👯 I’m looking to collaborate on Technical Projects<br><br>🤝 I’m looking for help with getting Technical Internships<br><br>🌱 I’m currently learning React.js , TensorFlow , ML algorithms<br><br>💬 Ask me about Front-End Web Development<br><br>📫 How to reach me dedipyagoswami001@gmail.com<br>
+🔭 I’m currently working on Action Recognition in Video and GUIbased_Chess Game with Minimax Algorithm <br><br>👯 I’m looking to collaborate on Technical Projects<br><br>🤝 I’m looking for help with getting Technical Internships<br><br>🌱 I’m currently learning React.js , TensorFlow , ML algorithms<br><br>💬 Ask me about Front-End Web Development<br><br>📫 How to reach me dedipyagoswami001@gmail.com<br>
 
 
 ## 🌐 Socials:

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dedipya Goswami</h1>
-<h3 align="center">A passionate frontend developer from India, an AI/ML student at SRM University, Andhra Pradesh</h3>
+<h3 align="center">A passionate Full Stack developer from India, an AI/ML student at SRM University, Andhra Pradesh</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 
  # 💫 About Me: 

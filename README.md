@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 
  # 💫 About Me: 
-🔭 I’m currently working on Language Translation Model on Indian Languages and NLP based Medical Chatbot <br><br>👯 I’m looking to collaborate on Technical Projects<br><br>🤝 I’m looking for help with getting Technical Internships<br><br>🌱 I’m currently learning React.js , TensorFlow , ML algorithms<br><br>💬 Ask me about Full Stack Web Development<br><br>📫 Reach me dedipyagoswami001@gmail.com<br>
+🔭 I’m currently working as an DevOps intern at Belzabar Software , Delhi, IN. <br><br>👯 I’m looking to collaborate on Technical Projects<br><br>🌱 I’m learned in C/C++, Python, MERN Stack, AI/ML , Shell scripting <br><br>💬 Ask me about Full Stack Web Development<br><br>📫 Reach me dedipyagoswami001@gmail.com<br>
 
 
 ## 🌐 Socials:

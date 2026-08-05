@@ -33,7 +33,7 @@ CPQ & RLM AI Layer   Applied ML            Product Engineering
 
 <p align="center">
   <img
-    src="./assets/combined-engineering-activity.svg"
+    src="https://raw.githubusercontent.com/dedipya001/dedipya001/main/assets/combined-engineering-activity.svg?v=1"
     alt="Combined engineering activity from personal and professional GitHub accounts"
     width="100%"
   />

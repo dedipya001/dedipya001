@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-08-05T00:00:00Z",
+  "projects": [
+    {"name":"AI Relocation Assistant","description":"AI-powered relocation intelligence using natural-language search, property data, commute analysis and locality recommendations.","url":"https://github.com/dedipya001/AI-Relocation-Assistant","language":"TypeScript","topics":["ai","fastapi","nextjs","mongodb"]},
+    {"name":"The One Interview","description":"Full-stack interview-preparation and experience-sharing platform with authentication, search and cloud storage.","url":"https://github.com/dedipya001/The-One-Interview","language":"JavaScript","topics":["react","nodejs","mongodb","aws"]},
+    {"name":"Trash Trace","description":"Applied sustainability prototype for waste identification, reporting and traceability workflows.","url":"https://github.com/dedipya001/Trash-Trace","language":"Multi-stack","topics":["sustainability","prototype"]},
+    {"name":"Skin Type Detection","description":"Computer-vision research prototype exploring image-based skin-type classification and responsible ML evaluation.","url":"https://github.com/dedipya001/Skin-type-detection","language":"Python","topics":["computer-vision","machine-learning"]},
+    {"name":"Video Recognition Study","description":"Comparative study of 3D CNN and CNN-RNN architectures for action recognition on a UCF101 subset.","url":"https://github.com/dedipya001/3D-CNN-Vs-CNN-RNN-in-Video-Recognition","language":"Python","topics":["deep-learning","video-recognition"]},
+    {"name":"Face Recognition Analysis","description":"Interactive analysis of image quality and classical face-recognition techniques, with responsible-use guidance.","url":"https://github.com/dedipya001/Face-Recognition-Analysis-Comparison","language":"Python","topics":["opencv","streamlit","computer-vision"]}
+  ]
+}

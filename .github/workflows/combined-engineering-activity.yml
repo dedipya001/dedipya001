@@ -1,0 +1,44 @@
+name: Update engineering activity dashboard
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 18 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate-dashboard:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate combined engineering activity dashboard
+        env:
+          PERSONAL_GITHUB_USERNAME: dedipya001
+          WORK_GITHUB_USERNAME: dedipya-selegic
+          PERSONAL_GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+          WORK_GITHUB_TOKEN: ${{ secrets.WORK_GITHUB_TOKEN }}
+        run: python scripts/generate_combined_contributions.py
+
+      - name: Commit updated dashboard
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/combined-engineering-activity.svg
+
+          if git diff --cached --quiet; then
+            echo "Dashboard is already up to date."
+            exit 0
+          fi
+
+          git commit -m "Update engineering activity dashboard"
+          git push

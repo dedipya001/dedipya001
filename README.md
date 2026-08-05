@@ -29,6 +29,25 @@ RAG Systems          MEAT Stack            Full-Stack Products
 CPQ & RLM AI Layer   Applied ML            Product Engineering
 ```
 
+<!-- WEEKLY-SNAPSHOT:START -->
+## Weekly Engineering Snapshot
+
+_This section refreshes automatically every Sunday at 7:00 PM IST using real activity from my personal and professional GitHub accounts._
+
+### Current focus
+
+- Enterprise AI over CPQ and Revenue Lifecycle Management
+- Agentforce proof-of-concepts and guided workflows
+- RAG evaluation and source-grounded enterprise answers
+- AI Relocation Assistant and full-stack AI applications
+
+### Activity from the last 7 days
+
+The first generated snapshot will appear after the workflow runs.
+
+> Private repositories, source code, and confidential project details remain hidden.
+<!-- WEEKLY-SNAPSHOT:END -->
+
 ## Engineering Activity
 
 <p align="center">

@@ -1,32 +1,98 @@
-<h1 align="center">Hi 👋, I'm Dedipya Goswami</h1>
-<h3 align="center">A passionate Full Stack developer from India, an AI/ML student at SRM University, Andhra Pradesh</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
+<h1 align="center">Hi, I'm Dedipya Goswami 👋</h1>
+<h3 align="center">Software Engineer | Enterprise AI, Salesforce Revenue Cloud & Full-Stack Development</h3>
 
- # 💫 About Me: 
-🔭 I’m currently working as an DevOps intern at Belzabar Software , Delhi, IN. <br><br>👯 I’m looking to collaborate on Technical Projects<br><br>🌱 I’m learned in C/C++, Python, MERN Stack, AI/ML , Shell scripting <br><br>💬 Ask me about Full Stack Web Development<br><br>📫 Reach me dedipyagoswami001@gmail.com<br>
+<p align="center">
+  I build practical AI-enabled products, enterprise knowledge systems, and full-stack applications that turn complex business workflows into clear, usable experiences.
+</p>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dedipya.goswami) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dedipya-goswami001) 
-
- 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dedipya001&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dedipya001&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dedipya001&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dedipya001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<p align="center">
+  <a href="https://linkedin.com/in/dedipya-goswami001">LinkedIn</a> •
+  <a href="mailto:dedipyagoswami001@gmail.com">Email</a> •
+  <a href="https://github.com/dedipya001?tab=repositories">Repositories</a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dedipya001&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+- Working with **Salesforce Revenue Lifecycle Management (RLM)** and exploring **Agentforce** use cases for enterprise workflows.
+- Building **RAG and enterprise knowledge solutions** that use company documents to answer questions, generate structured content, and support employee learning.
+- Experienced in developing **full-stack applications** using React, Next.js, Node.js, FastAPI, MongoDB, and related technologies.
+- Interested in applied AI, recommendation systems, workflow automation, developer tools, and user-focused product design.
+- Currently strengthening my work in system design, production engineering, testing, CI/CD, and open-source contribution.
+
+## Current Focus
+
+```text
+Enterprise AI        Salesforce RLM        Agentforce
+RAG Systems          Full-Stack Products   Applied Machine Learning
+```
+
+## Selected Projects
+
+### AI Relocation Assistant
+An AI-powered relocation intelligence platform designed to help users identify suitable places to live near their workplace using natural-language search, rental listings, commute analysis, locality intelligence, safety signals, internet reliability, and AI recommendations.
+
+**Stack:** Next.js, React, TypeScript, FastAPI, MongoDB, Redis, Celery, OpenAI API
+
+[View repository](https://github.com/dedipya001/AI-Relocation-Assistant)
+
+### The One Interview
+A collaborative interview-preparation platform for university students featuring question discovery, interview experiences, smart filtering, profiles, content creation, Google OAuth, 2FA, and cloud-backed storage.
+
+**Stack:** React, Node.js, Express, MongoDB, Passport.js, AWS S3, Gmail API
+
+[View repository](https://github.com/dedipya001/The-One-Interview)
+
+### Trash Trace
+A project focused on applying technology to waste identification and tracking workflows.
+
+[View repository](https://github.com/dedipya001/Trash-Trace)
+
+### Video Recognition Model Comparison
+A comparative deep-learning project exploring 3D CNN and CNN-RNN approaches for video recognition.
+
+[View repository](https://github.com/dedipya001/3D-CNN-Vs-CNN-RNN-in-Video-Recognition)
+
+### Face Recognition Analysis
+An analysis and comparison project evaluating approaches used in face-recognition systems.
+
+[View repository](https://github.com/dedipya001/Face-Recognition-Analysis-Comparison)
+
+## Core Technologies
+
+**Languages:** Python, JavaScript, TypeScript, C, C++, Java, SQL, Shell
+
+**Frontend:** React, Next.js, HTML, CSS, Tailwind CSS, Bootstrap
+
+**Backend:** Node.js, Express, FastAPI, REST APIs
+
+**Data & Infrastructure:** MongoDB, MySQL, Redis, Git, Linux, AWS, Vercel, Netlify
+
+**AI/ML:** RAG, OpenAI APIs, PyTorch, TensorFlow, scikit-learn, Pandas, NumPy
+
+**Enterprise Platforms:** Salesforce Revenue Lifecycle Management, Agentforce
+
+## What I Value
+
+- Building products around real business problems rather than isolated demos
+- Clear documentation and explainable technical decisions
+- Thoughtful UI/UX alongside strong backend engineering
+- Measurable outcomes, reliable systems, and maintainable code
+- Continuous learning through building, collaboration, and open-source work
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dedipya001&show_icons=true&include_all_commits=true&count_private=false" alt="Dedipya's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedipya001&layout=compact&langs_count=8" alt="Most used languages" />
+</p>
+
+---
+
+<p align="center">
+  Open to collaborating on enterprise AI, Salesforce, RAG, full-stack, and applied machine-learning projects.
+</p>

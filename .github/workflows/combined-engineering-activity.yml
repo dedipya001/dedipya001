@@ -2,13 +2,8 @@ name: Update engineering activity dashboard
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - main
-    paths-ignore:
-      - assets/combined-engineering-activity.svg
   schedule:
-    - cron: "30 18 * * *"
+    - cron: "30 18 * * 0"
 
 permissions:
   contents: write
@@ -46,11 +41,27 @@ jobs:
           WORK_GITHUB_TOKEN: ${{ secrets.WORK_GITHUB_TOKEN }}
         run: python scripts/generate_combined_contributions.py
 
+      - name: Refresh README dashboard URL
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          path = Path("README.md")
+          text = path.read_text(encoding="utf-8")
+          text = re.sub(
+              r"combined-engineering-activity\.svg\?v=\d+",
+              "combined-engineering-activity.svg?v=${{ github.run_number }}",
+              text,
+          )
+          path.write_text(text, encoding="utf-8")
+          PY
+
       - name: Commit updated dashboard
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/combined-engineering-activity.svg
+          git add assets/combined-engineering-activity.svg README.md
 
           if git diff --cached --quiet; then
             echo "Dashboard is already up to date."

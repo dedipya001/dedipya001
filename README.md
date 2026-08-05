@@ -33,7 +33,7 @@ CPQ & RLM AI Layer   Applied ML            Product Engineering
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/dedipya001/dedipya001/main/assets/combined-engineering-activity.svg"
+    src="./assets/combined-engineering-activity.svg"
     alt="Combined engineering activity from personal and professional GitHub accounts"
     width="100%"
   />
@@ -43,7 +43,7 @@ CPQ & RLM AI Layer   Applied ML            Product Engineering
   Combined activity from my personal projects, work, and proof-of-concepts. Private repositories and code stay hidden; only activity numbers are shown.
 </p>
 
-> This dashboard combines activity from my personal GitHub account and my professional GitHub account. It includes contributions, active days, coding streaks, pull requests created and merged, and pull requests reviewed and approved over the last 12 months.
+> This dashboard combines activity from my personal and professional GitHub accounts. It shows contributions, active days, coding streaks, pull requests created and merged, and pull requests reviewed and approved over the last 12 months.
 
 ## What I Build at Work
 
@@ -108,16 +108,6 @@ A project that evaluates and compares different approaches used in face-recognit
 - Clear documentation and explainable technical decisions
 - Strong UI/UX supported by reliable backend systems
 - Maintainable code, testing, automation, and measurable outcomes
-
-## Personal GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dedipya001&show_icons=true&include_all_commits=true&count_private=false" alt="Dedipya's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedipya001&layout=compact&langs_count=8" alt="Most used languages" />
-</p>
 
 ---
 

@@ -1,0 +1,46 @@
+name: Refresh weekly engineering snapshot
+
+on:
+  schedule:
+    - cron: "30 13 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: weekly-profile-snapshot
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate weekly snapshot
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PERSONAL_GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+          WORK_GITHUB_TOKEN: ${{ secrets.WORK_GITHUB_TOKEN }}
+        run: python profile-generator/generate_weekly_snapshot.py
+
+      - name: Commit snapshot when data changed
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "No snapshot changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "docs(profile): refresh weekly engineering snapshot"
+          git push

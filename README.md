@@ -40,7 +40,7 @@ CPQ & RLM AI Layer   Applied ML            Product Engineering
 </p>
 
 <p align="center">
-  Activity from personal projects, professional development, and proof-of-concept work. Private repositories and confidential code stay hidden; only combined activity numbers are shown.
+  Combined activity from my personal projects, work, and proof-of-concepts. Private repositories and code stay hidden; only activity numbers are shown.
 </p>
 
 > This dashboard combines activity from my personal GitHub account and my professional GitHub account. It includes contributions, active days, coding streaks, pull requests created and merged, and pull requests reviewed and approved over the last 12 months.

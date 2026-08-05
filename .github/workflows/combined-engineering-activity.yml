@@ -2,11 +2,20 @@ name: Update engineering activity dashboard
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - assets/combined-engineering-activity.svg
   schedule:
     - cron: "30 18 * * *"
 
 permissions:
   contents: write
+
+concurrency:
+  group: engineering-activity-dashboard
+  cancel-in-progress: true
 
 jobs:
   generate-dashboard:
@@ -20,6 +29,14 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+
+      - name: Check required secrets
+        env:
+          PERSONAL_GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+          WORK_GITHUB_TOKEN: ${{ secrets.WORK_GITHUB_TOKEN }}
+        run: |
+          test -n "$PERSONAL_GITHUB_TOKEN" || (echo "PERSONAL_GITHUB_TOKEN is missing" && exit 1)
+          test -n "$WORK_GITHUB_TOKEN" || (echo "WORK_GITHUB_TOKEN is missing" && exit 1)
 
       - name: Generate combined engineering activity dashboard
         env:

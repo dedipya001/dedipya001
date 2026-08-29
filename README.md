@@ -32,7 +32,7 @@ CPQ & RLM AI Layer   Applied ML            Product Engineering
 <!-- WEEKLY-SNAPSHOT:START -->
 ## Weekly Engineering Snapshot
 
-_Last refreshed: 23 August 2026, 07:20 PM IST_
+_Last refreshed: 29 August 2026, 12:05 PM IST_
 
 ### Current focus
 
@@ -43,22 +43,22 @@ _Last refreshed: 23 August 2026, 07:20 PM IST_
 
 ### Activity from the last 7 days
 
-- Pull requests created: **1**
+- Pull requests created: **2**
 - Pull requests merged: **2**
 - Pull requests reviewed: **0**
 - Pull requests approved: **0**
 
 ### Recently updated projects
 
-- [AI-Relocation-Assistant](https://github.com/dedipya001/AI-Relocation-Assistant) — Engineering project and technical exploration. _(updated 06 Aug 2026)_
+- [AI-Relocation-Assistant](https://github.com/dedipya001/AI-Relocation-Assistant) — Engineering project and technical exploration. _(updated 29 Aug 2026)_
 - [dedipya001.github.io](https://github.com/dedipya001/dedipya001.github.io) — Engineering project and technical exploration. _(updated 06 Aug 2026)_
 - [Face-Recognition-Analysis-Comparison](https://github.com/dedipya001/Face-Recognition-Analysis-Comparison) — Engineering project and technical exploration. _(updated 05 Aug 2026)_
 - [3D-CNN-Vs-CNN-RNN-in-Video-Recognition](https://github.com/dedipya001/3D-CNN-Vs-CNN-RNN-in-Video-Recognition) — This is a comprehensive study on 2 Video recognition architectures under Deep Learning, 3D CNN and CNN-RNN hybrid architecture.  _(updated 05 Aug 2026)_
 
 ### Engineering backlog
 
-- Open issues: **5**
-- Closed issues: **0**
+- Open issues: **10**
+- Closed issues: **2**
 
 ### Latest release
 

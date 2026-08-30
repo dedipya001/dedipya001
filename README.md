@@ -32,7 +32,7 @@ CPQ & RLM AI Layer   Applied ML            Product Engineering
 <!-- WEEKLY-SNAPSHOT:START -->
 ## Weekly Engineering Snapshot
 
-_Last refreshed: 30 August 2026, 02:48 PM IST_
+_Last refreshed: 30 August 2026, 11:08 PM IST_
 
 ### Current focus
 
@@ -43,8 +43,8 @@ _Last refreshed: 30 August 2026, 02:48 PM IST_
 
 ### Activity from the last 7 days
 
-- Pull requests created: **5**
-- Pull requests merged: **3**
+- Pull requests created: **9**
+- Pull requests merged: **9**
 - Pull requests reviewed: **0**
 - Pull requests approved: **0**
 
@@ -58,7 +58,7 @@ _Last refreshed: 30 August 2026, 02:48 PM IST_
 ### Engineering backlog
 
 - Open issues: **16**
-- Closed issues: **4**
+- Closed issues: **5**
 
 ### Latest release
 

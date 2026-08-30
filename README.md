@@ -71,7 +71,7 @@ _Last refreshed: 29 August 2026, 12:05 PM IST_
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/dedipya001/dedipya001/main/assets/combined-engineering-activity.svg?v=7"
+    src="https://raw.githubusercontent.com/dedipya001/dedipya001/main/assets/combined-engineering-activity.svg?v=8"
     alt="Combined engineering activity from personal and professional GitHub accounts"
     width="100%"
   />
